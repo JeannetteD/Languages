@@ -1,0 +1,19 @@
+p::first-letter {
+ font-style: italic;
+ font-size: 36pt;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: monospace;
+}
+
+.js {
+  width: 200px;
+  height: 200px;
+}
+
+#Nav1 {
+  text-align: center;
+  }
